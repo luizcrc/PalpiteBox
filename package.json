@@ -1,0 +1,25 @@
+{
+  "name": "fbranding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "exit": "^0.1.2",
+    "google-spreadsheet": "^3.1.15",
+    "moment": "^2.29.1",
+    "next": "^10.2.0",
+    "postcss-import": "^14.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "swr": "^0.5.5",
+    "tailwindcss": "^2.1.2"
+  }
+}
